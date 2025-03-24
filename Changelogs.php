@@ -9,6 +9,7 @@ SERVERALERT:
 <h3>Added New Items from Cata up to Legion.<br /><br /></h3>
 <h3>Added Transmog System AIO.<br /><br /></h3>
 <h3>Added Store In-Game.<br /><br /></h3>
+<h3>Fixed Transmog errors.<br /><br /></h3>
 <h2><br />Mi Facebook <a href="https://www.facebook.com/Oscar.SP.26/">|cffff0000 Eureka26|r |cff00ff00</a></h2>
 <p>|cffff00ff*</p>
 <p>|cffff00ff*</p>
